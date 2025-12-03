@@ -98,7 +98,7 @@ El script utiliza cookies para autenticación, se debe extraer del navegador usa
 
 Ejecutar main.py
 ```bash
-python main.py <url>
+python main.py
 ```
 El script te pedira la url del curso a descargar
 ```bash
